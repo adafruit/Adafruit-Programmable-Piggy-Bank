@@ -1,5 +1,13 @@
-Adafruit Electronic Piggy Bank
---------------------------------
+## This repository has been archived
+
+The files in this repository accompanied https://blog.adafruit.com/2012/04/23/how-to-electronic-piggy-bank-video/
+
+and were moved to https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Programmable_Piggy_Bank
+
+Please consider buying your parts at [Adafruit.com](https://www.adafruit.com) to support open source code.
+
+
+### Adafruit Electronic Piggy Bank
 
 A project by Becky Stern
 
